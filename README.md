@@ -1,16 +1,47 @@
-# React + Vite
+Gallery App
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A simple and responsive Gallery App built using React. This project fetches and displays images from an external API, allowing users to view a collection of photos in a clean and modern interface.
 
-Currently, two official plugins are available:
+Features
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+- Fetches images from an API
+- Responsive gallery layout
+- Clean and modern UI
+- Fast image loading
+- Built with React
 
-## React Compiler
+Technologies Used
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+- React.js
+- JavaScript (ES6+)
+- CSS / Tailwind CSS
+- Axios
+- Picsum Photos API
 
-## Expanding the ESLint configuration
+Installation
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+1. Clone the repository
+2. Install dependencies
+3. Run the development server
+
+What I Learned
+
+- Working with APIs using Axios
+- React Hooks (useState)
+- Handling asynchronous requests
+- Managing component state
+- Building responsive layouts
+
+Future Improvements
+
+- Image search functionality
+- Image download option
+- Infinite scrolling
+- Categories and filters
+- Dark mode
+
+Author
+
+Rajesh Kumar Nayak
+
+Computer Science Engineering Student passionate about Web Development and Software Engineering.
